@@ -49,6 +49,10 @@ The processed data, including relevant papers and their classifications, is save
 1. **Run the Notebook**: Execute the code in Google Colab to process the dataset.
 2. **Review Results**: The output CSV file contains filtered and classified papers, along with extracted method names.
 
+## Code Availability
+
+The code for this project is provided in the repository as `NLP_TASK.py` and its notebook version. Both files are available for review and execution.
+
 ## Conclusion
 
 This project effectively streamlines the early stages of article collection for review by minimizing manual scanning and filtering of numerous articles. The approach leverages lightweight NLP techniques suitable for personal computers or free platforms like Google Colab.
