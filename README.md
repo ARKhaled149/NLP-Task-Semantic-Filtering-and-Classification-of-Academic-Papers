@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on filtering and classifying academic papers from a dataset obtained through keyword-based searches on PubMed. The primary aim is to identify papers that implement deep learning neural network-based solutions in the fields of virology and epidemiology. The dataset contains 11,450 records and is provided in CSV format.
+This project focuses on filtering and classifying academic papers from a dataset obtained through keyword-based searches on PubMed. The primary aim is to identify papers that implement deep learning neural network-based solutions in the fields of virology and epidemiology. The dataset `collection_with_abstracts.csv` contains 11,451 records and is provided in CSV format.
 
 ## Objectives
 
